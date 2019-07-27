@@ -1,0 +1,79 @@
+body {
+   background: #DAF1F9;
+}
+
+ #nav1 {
+   display: inline-flex;
+   align-content: initial;
+   font-size: 30px; 
+   width: 100%;
+   background:#A4D7E1;
+   color:black;
+   margin-left: 0px;
+   margin-right: 0px; 
+   padding-bottom: 30px;
+   padding-top: 30px;
+   padding-left: 0px;
+   padding-right: 0px;
+   
+}
+
+nav div{
+   padding: 15px;
+   
+}
+
+a.sinlinea:link{
+   text-decoration: none;
+}
+
+.padre1{
+   display:inline-flex;
+   align-content:initial;
+}
+
+.contenido1{
+   background:rgb(114, 225, 240);
+   color: black;
+   padding: 20px;
+   width: 80%;
+   margin: 10px;
+}
+
+#principal{
+   text-align: center;
+}
+
+.cabecera1{
+   
+   background-image: url(/imagenes/673672-PPQPO6-665.jpg);
+   background-size: 100% 100%;
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-attachment: scroll;
+   height: 300px;
+   
+   
+}
+
+.texto1{
+   text-align:  center;
+}
+
+footer{
+   background: rgb(138, 159, 165);
+   text-align: center;
+   margin-left: 0px;
+   margin-right: 0px;
+   padding-bottom: 30px;
+   padding-top: 30px;
+   padding-left: 30px;
+   padding-right: 30px;
+}
+#cabecera2 {
+   text-align: left;
+   color: black;
+   padding-top: 16%;
+   padding-left: 20px;
+}
+
